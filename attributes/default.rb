@@ -1,6 +1,6 @@
 #
-# Author:: Ben Dixon
-# Cookbook Name:: redis-tlq
+# Author:: Oriol Collell
+# Cookbook Name:: redis
 # Attributes:: default
 #
 
